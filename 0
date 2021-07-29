@@ -9,7 +9,7 @@
       "i2": "ca-app-pub-3940256099942544/1033173712"
     }
   ],
-  "gsfa.mediation.lib": [
+  "com.test": [
     {
       "exit_popup": "2",
       "oa": "ca-app-pub-3940256099942544/3419835294",
