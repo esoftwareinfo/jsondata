@@ -1,22 +1,5 @@
-{
-  "package.name": [
-    {
-      "exit_popup": "0",
-      "oa": "ca-app-pub-3940256099942544/3419835294",
-      "b1": "ca-app-pub-3940256099942544/6300978111",
-      "b2": "ca-app-pub-3940256099942544/6300978111",
-      "i1": "ca-app-pub-3940256099942544/1033173712",
-      "i2": "ca-app-pub-3940256099942544/1033173712"
-    }
-  ],
-  "com.test": [
-    {
-      "exit_popup": "2",
-      "oa": "ca-app-pub-3940256099942544/3419835294",
-      "b1": "ca-app-pub-3940256099942544/6300978111",
-      "b2": "ca-app-pub-3940256099942544/6300978111",
-      "i1": "ca-app-pub-3940256099942544/1033173712",
-      "i2": "ca-app-pub-3940256099942544/1033173712"
-    }
-  ]
-}
+exit_popup 0 -> Normal Ads
+exit_popup 1 -> Normal Ads with exit popup menu
+exit_popup 2 -> Normal Ads with exit popup ads
+exit_popup 3 -> Increase Ads with exit popup menu
+exit_popup 4 -> Increase Ads with exit popup ads
