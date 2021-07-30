@@ -2,7 +2,7 @@
   "melton.digi.analogclock.livewp": [
     {
       "exit_popup": "0",
-      "tx": "tapxxxxxID",
+      "tx": "pub-61211-android-5724",
       "b1": "/22387492205,22509378687/melton.digi.analogclock.livewp.Banner0.1627465746",
       "b2": "/22387492205,22509378687/melton.digi.analogclock.livewp.Banner0.1627465746",
       "i1": "/22387492205,22509378687/melton.digi.analogclock.livewp.Interstitial0.1627465765",
@@ -24,7 +24,7 @@
   "melton.digi.digitalclocklivewallpaper": [
     {
       "exit_popup": "0",
-      "tx": "tapxxxxxID",
+      "tx": "pub-61210-android-5639",
       "b1": "/22387492205,22509378687/melton.digi.digitalclocklivewallpaper.Banner0.1627464761",
       "b2": "/22387492205,22509378687/melton.digi.digitalclocklivewallpaper.Banner0.1627464761",
       "i1": "/22387492205,22509378687/melton.digi.digitalclocklivewallpaper.Interstitial0.1627464777",
