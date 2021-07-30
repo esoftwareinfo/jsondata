@@ -13,7 +13,7 @@
   "melton.digi.analogclocklivewallpaper": [
     {
       "exit_popup": "0",
-      "tx": "tapxxxxxID",
+      "tx": "pub-61212-android-7835",
       "b1": "ca-app-pub-3940256099942544/6300978111",
       "b2": "ca-app-pub-3940256099942544/6300978111",
       "i1": "ca-app-pub-3940256099942544/1033173712",
@@ -35,7 +35,7 @@
   "melton.digi.latestdigitalclocklivewallpaper": [
     {
       "exit_popup": "0",
-      "tx": "tapxxxxxID",
+      "tx": "pub-61213-android-7872",
       "b1": "ca-app-pub-3940256099942544/6300978111",
       "b2": "ca-app-pub-3940256099942544/6300978111",
       "i1": "ca-app-pub-3940256099942544/1033173712",
@@ -46,7 +46,7 @@
   "melton.digi.leddigitalclocklivewallpaper": [
     {
       "exit_popup": "0",
-      "tx": "tapxxxxxID",
+      "tx": "pub-61214-android-7885",
       "b1": "ca-app-pub-3940256099942544/6300978111",
       "b2": "ca-app-pub-3940256099942544/6300978111",
       "i1": "ca-app-pub-3940256099942544/1033173712",
@@ -57,7 +57,7 @@
   "melton.digi.newdigitalclocklivewallpaper": [
     {
       "exit_popup": "0",
-      "tx": "tapxxxxxID",
+      "tx": "pub-61215-android-7937",
       "b1": "ca-app-pub-3940256099942544/6300978111",
       "b2": "ca-app-pub-3940256099942544/6300978111",
       "i1": "ca-app-pub-3940256099942544/1033173712",
@@ -68,7 +68,7 @@
   "melton.digi.awesomedigitalclocklivewallpaper": [
     {
       "exit_popup": "0",
-      "tx": "tapxxxxxID",
+      "tx": "pub-61216-android-7955",
       "b1": "ca-app-pub-3940256099942544/6300978111",
       "b2": "ca-app-pub-3940256099942544/6300978111",
       "i1": "ca-app-pub-3940256099942544/1033173712",
@@ -79,7 +79,7 @@
   "melton.digi.displaydigitalclocklivewallpaper": [
     {
       "exit_popup": "0",
-      "tx": "tapxxxxxID",
+      "tx": "pub-61217-android-7969",
       "b1": "ca-app-pub-3940256099942544/6300978111",
       "b2": "ca-app-pub-3940256099942544/6300978111",
       "i1": "ca-app-pub-3940256099942544/1033173712",
@@ -90,7 +90,7 @@
   "melton.digi.moderndigitalclocklivewallpaper": [
     {
       "exit_popup": "0",
-      "tx": "tapxxxxxID",
+      "tx": "pub-61218-android-7983",
       "b1": "ca-app-pub-3940256099942544/6300978111",
       "b2": "ca-app-pub-3940256099942544/6300978111",
       "i1": "ca-app-pub-3940256099942544/1033173712",
@@ -101,7 +101,7 @@
   "melton.digi.digiclocklwp": [
     {
       "exit_popup": "0",
-     "tx": "tapxxxxxID",
+     "tx": "pub-61219-android-7997",
       "b1": "ca-app-pub-3940256099942544/6300978111",
       "b2": "ca-app-pub-3940256099942544/6300978111",
       "i1": "ca-app-pub-3940256099942544/1033173712",
@@ -112,7 +112,7 @@
   "melton.digi.digiclocklivewallpaper": [
     {
       "exit_popup": "0",
-      "tx": "tapxxxxxID",
+      "tx": "pub-61220-android-8011",
       "b1": "ca-app-pub-3940256099942544/6300978111",
       "b2": "ca-app-pub-3940256099942544/6300978111",
       "i1": "ca-app-pub-3940256099942544/1033173712",
@@ -123,7 +123,7 @@
   "melton.digi.neondigitalclocklivewallpaper": [
     {
       "exit_popup": "0",
-      "tx": "tapxxxxxID",
+      "tx": "pub-61221-android-8025",
       "b1": "ca-app-pub-3940256099942544/6300978111",
       "b2": "ca-app-pub-3940256099942544/6300978111",
       "i1": "ca-app-pub-3940256099942544/1033173712",
