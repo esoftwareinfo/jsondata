@@ -1,0 +1,13 @@
+{
+  "pletheon.digitalclock.wallpaper.digitalclocklivewallpaper": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61244-android-9116",
+      "b1": "/22387492205,22509378687/pletheon.digitalclock.wallpaper.digitalclocklivewallpaper.Banner0.1627443229",
+      "b2": "/22387492205,22509378687/pletheon.digitalclock.wallpaper.digitalclocklivewallpaper.Banner0.1627443229",
+      "i1": "/22387492205,22509378687/pletheon.digitalclock.wallpaper.digitalclocklivewallpaper.Interstitial0.1627443252",
+      "i2": "/22387492205,22509378687/pletheon.digitalclock.wallpaper.digitalclocklivewallpaper.Interstitial0.1627443252"
+      "na": "ca-app-pub-3940256099942544/2247696110"
+    }
+  ]
+  }
