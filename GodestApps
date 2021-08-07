@@ -1,0 +1,46 @@
+{
+  "godest.gita.bhagavadgita": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61582-android-2416",
+      "b1": "BBBBBBBBB",
+      "b2": "BBBBBBBBB",
+      "i1": "IIIIIIIIIII",
+      "i2": "IIIIIIIIIII",
+      "na": "ca-app-pub-3940256099942544/2247696110"
+    }
+  ],
+  "godest.ramayan.fullramayana": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61583-android-2582",
+      "b1": "BBBBBBBBB",
+      "b2": "BBBBBBBBB",
+      "i1": "IIIIIIIIIII",
+      "i2": "IIIIIIIIIII",
+      "na": "ca-app-pub-3940256099942544/2247696110"
+    }
+  ],
+  "godest.bible.holybible": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61584-android-2639",
+      "b1": "BBBBBBBBB",
+      "b2": "BBBBBBBBB",
+      "i1": "IIIIIIIIIII",
+      "i2": "IIIIIIIIIII",
+      "na": "ca-app-pub-3940256099942544/2247696110"
+    }
+  ],
+  "godest.koran.theholyquran": [
+    {
+      "exit_popup": "0",
+      "tx": "pub-61585-android-2698",
+      "b1": "BBBBBBBBB",
+      "b2": "BBBBBBBBB",
+      "i1": "IIIIIIIIIII",
+      "i2": "IIIIIIIIIII",
+      "na": "ca-app-pub-3940256099942544/2247696110"
+    }
+  ]
+}
