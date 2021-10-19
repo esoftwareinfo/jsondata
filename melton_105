@@ -1,0 +1,122 @@
+{
+  "melton.digi.analogclock.livewp": [
+    {
+      "exit_popup": "0",
+      "oa": "ca-app-pub-3940256099942544/3419835294",
+      "b1": "/22387492205,22509378687/melton.digi.analogclock.livewp.Banner0.1627465746",
+      "b2": "/22387492205,22509378687/melton.digi.analogclock.livewp.Banner0.1627465746",
+      "i1": "/22387492205,22509378687/melton.digi.analogclock.livewp.Interstitial0.1627465765",
+      "i2": "/22387492205,22509378687/melton.digi.analogclock.livewp.Interstitial0.1627465765"
+    }
+  ],
+  "melton.digi.analogclocklivewallpaper": [
+    {
+      "exit_popup": "0",
+      "oa": "ca-app-pub-3940256099942544/3419835294",
+      "b1": "ca-app-pub-3940256099942544/6300978111",
+      "b2": "ca-app-pub-3940256099942544/6300978111",
+      "i1": "ca-app-pub-3940256099942544/1033173712",
+      "i2": "ca-app-pub-3940256099942544/1033173712"
+    }
+  ],
+  "melton.digi.digitalclocklivewallpaper": [
+    {
+      "exit_popup": "0",
+      "oa": "ca-app-pub-3940256099942544/3419835294",
+      "b1": "/22387492205,22509378687/melton.digi.digitalclocklivewallpaper.Banner0.1627464761",
+      "b2": "/22387492205,22509378687/melton.digi.digitalclocklivewallpaper.Banner0.1627464761",
+      "i1": "/22387492205,22509378687/melton.digi.digitalclocklivewallpaper.Interstitial0.1627464777",
+      "i2": "/22387492205,22509378687/melton.digi.digitalclocklivewallpaper.Interstitial0.1627464777"
+    }
+  ],
+  "melton.digi.latestdigitalclocklivewallpaper": [
+    {
+      "exit_popup": "0",
+      "oa": "ca-app-pub-3940256099942544/3419835294",
+      "b1": "ca-app-pub-3940256099942544/6300978111",
+      "b2": "ca-app-pub-3940256099942544/6300978111",
+      "i1": "ca-app-pub-3940256099942544/1033173712",
+      "i2": "ca-app-pub-3940256099942544/1033173712"
+    }
+  ],
+  "melton.digi.leddigitalclocklivewallpaper": [
+    {
+      "exit_popup": "0",
+      "oa": "ca-app-pub-3940256099942544/3419835294",
+      "b1": "ca-app-pub-3940256099942544/6300978111",
+      "b2": "ca-app-pub-3940256099942544/6300978111",
+      "i1": "ca-app-pub-3940256099942544/1033173712",
+      "i2": "ca-app-pub-3940256099942544/1033173712"
+    }
+  ],
+  "melton.digi.newdigitalclocklivewallpaper": [
+    {
+      "exit_popup": "0",
+      "oa": "ca-app-pub-3940256099942544/3419835294",
+      "b1": "ca-app-pub-3940256099942544/6300978111",
+      "b2": "ca-app-pub-3940256099942544/6300978111",
+      "i1": "ca-app-pub-3940256099942544/1033173712",
+      "i2": "ca-app-pub-3940256099942544/1033173712"
+    }
+  ],
+  "melton.digi.awesomedigitalclocklivewallpaper": [
+    {
+      "exit_popup": "0",
+      "oa": "ca-app-pub-3940256099942544/3419835294",
+      "b1": "ca-app-pub-3940256099942544/6300978111",
+      "b2": "ca-app-pub-3940256099942544/6300978111",
+      "i1": "ca-app-pub-3940256099942544/1033173712",
+      "i2": "ca-app-pub-3940256099942544/1033173712"
+    }
+  ],
+  "melton.digi.displaydigitalclocklivewallpaper": [
+    {
+      "exit_popup": "0",
+      "oa": "ca-app-pub-3940256099942544/3419835294",
+      "b1": "ca-app-pub-3940256099942544/6300978111",
+      "b2": "ca-app-pub-3940256099942544/6300978111",
+      "i1": "ca-app-pub-3940256099942544/1033173712",
+      "i2": "ca-app-pub-3940256099942544/1033173712"
+    }
+  ],
+  "melton.digi.moderndigitalclocklivewallpaper": [
+    {
+      "exit_popup": "0",
+      "oa": "ca-app-pub-3940256099942544/3419835294",
+      "b1": "ca-app-pub-3940256099942544/6300978111",
+      "b2": "ca-app-pub-3940256099942544/6300978111",
+      "i1": "ca-app-pub-3940256099942544/1033173712",
+      "i2": "ca-app-pub-3940256099942544/1033173712"
+    }
+  ],
+  "melton.digi.digiclocklwp": [
+    {
+      "exit_popup": "0",
+      "oa": "ca-app-pub-3940256099942544/3419835294",
+      "b1": "ca-app-pub-3940256099942544/6300978111",
+      "b2": "ca-app-pub-3940256099942544/6300978111",
+      "i1": "ca-app-pub-3940256099942544/1033173712",
+      "i2": "ca-app-pub-3940256099942544/1033173712"
+    }
+  ],
+  "melton.digi.digiclocklivewallpaper": [
+    {
+      "exit_popup": "0",
+      "oa": "ca-app-pub-3940256099942544/3419835294",
+      "b1": "ca-app-pub-3940256099942544/6300978111",
+      "b2": "ca-app-pub-3940256099942544/6300978111",
+      "i1": "ca-app-pub-3940256099942544/1033173712",
+      "i2": "ca-app-pub-3940256099942544/1033173712"
+    }
+  ],
+  "melton.digi.neondigitalclocklivewallpaper": [
+    {
+      "exit_popup": "0",
+      "oa": "ca-app-pub-3940256099942544/3419835294",
+      "b1": "ca-app-pub-3940256099942544/6300978111",
+      "b2": "ca-app-pub-3940256099942544/6300978111",
+      "i1": "ca-app-pub-3940256099942544/1033173712",
+      "i2": "ca-app-pub-3940256099942544/1033173712"
+    }
+  ]
+}
