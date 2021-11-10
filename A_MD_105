@@ -3,17 +3,17 @@
     {
       "exit_popup": "0",
       "tx": "pub-61211-android-5724",
-      "b1": "/22387492205,22509378687/melton.digi.analogclock.livewp.Banner0.1627465746",
-      "b2": "/22387492205,22509378687/melton.digi.analogclock.livewp.Banner0.1627465746",
-      "i1": "/22387492205,22509378687/melton.digi.analogclock.livewp.Interstitial0.1627465765",
-      "i2": "/22387492205,22509378687/melton.digi.analogclock.livewp.Interstitial0.1627465765",
-      "na1": "/22387492205,22509378687/melton.digi.analogclock.livewp.Native0.1634624314",
-      "na2": "/22387492205,22509378687/melton.digi.analogclock.livewp.Native0.1634624314",
+      "b1": "/22405025169,22573985824/melton.digi.analogclock.livewp.Banner",
+      "b2": "/22405025169,22573985824/melton.digi.analogclock.livewp.Banner",
+      "i1": "/22405025169,22573985824/melton.digi.analogclock.livewp.Interstitial",
+      "i2": "/22405025169,22573985824/melton.digi.analogclock.livewp.Interstitial",
+      "na1": "/22405025169,22573985824/melton.digi.analogclock.livewp.Native",
+      "na2": "/22405025169,22573985824/melton.digi.analogclock.livewp.Native",
       "aid": "ca-app-pub-3940256099942544~3347511713",
-      "ao": "/6499/example/app-open",
+      "ao": "/22405025169,22573985824/melton.digi.analogclock.livewp.AppOpen",
       "rd": "/6499/example/rewarded",
       "ird": "/21775744923/example/rewarded_interstitial",
-      "extra1": "Want To Put 1",
+      "extra1": "1",
       "extra2": "Want To Put 2"
     }
   ],
@@ -31,7 +31,7 @@
       "ao": "/22405025169,22573985824/melton.digi.analogclocklivewallpaper.AppOpen",
       "rd": "/6499/example/rewarded",
       "ird": "/21775744923/example/rewarded_interstitial",
-      "extra1": "Want To Put 1",
+      "extra1": "1",
       "extra2": "Want To Put 2"
     }
   ],
@@ -49,7 +49,7 @@
       "ao": "/22405025169,22573985824/melton.digi.digitalclocklivewallpaper.AppOpen2",
       "rd": "/6499/example/rewarded",
       "ird": "/21775744923/example/rewarded_interstitial",
-      "extra1": "Want To Put 1",
+      "extra1": "1",
       "extra2": "Want To Put 2"
     }
   ],
@@ -57,17 +57,17 @@
     {
       "exit_popup": "0",
       "tx": "pub-61213-android-7872",
-      "b1": "/22387492205,22509378687/melton.digi.latestdigitalclocklivewallpaper.Banner0.1627638146",
-      "b2": "/22387492205,22509378687/melton.digi.latestdigitalclocklivewallpaper.Banner0.1627638146",
-      "i1": "/22387492205,22509378687/melton.digi.latestdigitalclocklivewallpaper.Interstitial0.1627638168",
-      "i2": "/22387492205,22509378687/melton.digi.latestdigitalclocklivewallpaper.Interstitial0.1627638168",
-      "na1": "/22387492205,22509378687/melton.digi.latestdigitalclocklivewallpaper.Native0.1634624472",
-      "na2": "/22387492205,22509378687/melton.digi.latestdigitalclocklivewallpaper.Native0.1634624472",
+      "b1": "/22405025169,22573985824/melton.digi.latestdigitalclocklivewallpaper.Banner",
+      "b2": "/22405025169,22573985824/melton.digi.latestdigitalclocklivewallpaper.Banner",
+      "i1": "/22405025169,22573985824/melton.digi.latestdigitalclocklivewallpaper.Interstitial",
+      "i2": "/22405025169,22573985824/melton.digi.latestdigitalclocklivewallpaper.Interstitial",
+      "na1": "/22405025169,22573985824/melton.digi.latestdigitalclocklivewallpaper.Native",
+      "na2": "/22405025169,22573985824/melton.digi.latestdigitalclocklivewallpaper.Native",
       "aid": "ca-app-pub-3940256099942544~3347511713",
-      "ao": "/6499/example/app-open",
+      "ao": "/22405025169,22573985824/melton.digi.latestdigitalclocklivewallpaper.AppOpen",
       "rd": "/6499/example/rewarded",
       "ird": "/21775744923/example/rewarded_interstitial",
-      "extra1": "Want To Put 1",
+      "extra1": "1",
       "extra2": "Want To Put 2"
     }
   ],
@@ -85,7 +85,7 @@
       "ao": "/22405025169,22573985824/melton.digi.leddigitalclocklivewallpaper.AppOpen",
       "rd": "/6499/example/rewarded",
       "ird": "/21775744923/example/rewarded_interstitial",
-      "extra1": "Want To Put 1",
+      "extra1": "1",
       "extra2": "Want To Put 2"
     }
   ],
@@ -103,7 +103,7 @@
       "ao": "/22405025169,22573985824/melton.digi.newdigitalclocklivewallpaper.AppOpen",
       "rd": "/6499/example/rewarded",
       "ird": "/21775744923/example/rewarded_interstitial",
-      "extra1": "Want To Put 1",
+      "extra1": "1",
       "extra2": "Want To Put 2"
     }
   ],
@@ -165,17 +165,17 @@
     {
       "exit_popup": "0",
       "tx": "pub-61219-android-7997",
-      "b1": "/6499/example/banner",
-      "b2": "/6499/example/banner",
-      "i1": "/6499/example/interstitial",
-      "i2": "/6499/example/interstitial",
-      "na1": "/6499/example/native",
-      "na2": "/6499/example/native",
+      "b1": "/22405025169,22573985824/melton.digi.digiclocklwp.Banner",
+      "b2": "/22405025169,22573985824/melton.digi.digiclocklwp.Banner",
+      "i1": "/22405025169,22573985824/melton.digi.digiclocklwp.Interstitial",
+      "i2": "/22405025169,22573985824/melton.digi.digiclocklwp.Interstitial",
+      "na1": "/22405025169,22573985824/melton.digi.digiclocklwp.Native",
+      "na2": "/22405025169,22573985824/melton.digi.digiclocklwp.Native",
       "aid": "ca-app-pub-3940256099942544~3347511713",
-      "ao": "/6499/example/app-open",
+      "ao": "/22405025169,22573985824/melton.digi.digiclocklwp.AppOpen",
       "rd": "/6499/example/rewarded",
       "ird": "/21775744923/example/rewarded_interstitial",
-      "extra1": "Want To Put 1",
+      "extra1": "1",
       "extra2": "Want To Put 2"
     }
   ],
@@ -183,17 +183,17 @@
     {
       "exit_popup": "0",
       "tx": "pub-61220-android-8011",
-      "b1": "/22387492205,22509378687/melton.digi.digiclocklivewallpaper.Banner0.1627635437",
-      "b2": "/22387492205,22509378687/melton.digi.digiclocklivewallpaper.Banner0.1627635437",
-      "i1": "/22387492205,22509378687/melton.digi.digiclocklivewallpaper.Interstitial0.1627635458",
-      "i2": "/22387492205,22509378687/melton.digi.digiclocklivewallpaper.Interstitial0.1627635458",
-      "na1": "/22387492205,22509378687/melton.digi.digiclocklivewallpaper.Native0.1634624671",
-      "na2": "/22387492205,22509378687/melton.digi.digiclocklivewallpaper.Native0.1634624671",
+      "b1": "/22405025169,22573985824/melton.digi.digiclocklivewallpaper.Banner",
+      "b2": "/22405025169,22573985824/melton.digi.digiclocklivewallpaper.Banner",
+      "i1": "/22405025169,22573985824/melton.digi.digiclocklivewallpaper.Interstitial",
+      "i2": "/22405025169,22573985824/melton.digi.digiclocklivewallpaper.Interstitial",
+      "na1": "/22405025169,22573985824/melton.digi.digiclocklivewallpaper.Native",
+      "na2": "/22405025169,22573985824/melton.digi.digiclocklivewallpaper.Native",
       "aid": "ca-app-pub-3940256099942544~3347511713",
-      "ao": "/6499/example/app-open",
+      "ao": "/22405025169,22573985824/melton.digi.digiclocklivewallpaper.AppOpen",
       "rd": "/6499/example/rewarded",
       "ird": "/21775744923/example/rewarded_interstitial",
-      "extra1": "Want To Put 1",
+      "extra1": "1",
       "extra2": "Want To Put 2"
     }
   ],
@@ -201,17 +201,17 @@
     {
       "exit_popup": "0",
       "tx": "pub-61221-android-8025",
-      "b1": "/22387492205,22509378687/melton.digi.neondigitalclocklivewallpaper.Banner0.1627644617",
-      "b2": "/22387492205,22509378687/melton.digi.neondigitalclocklivewallpaper.Banner0.1627644617",
-      "i1": "/22387492205,22509378687/melton.digi.neondigitalclocklivewallpaper.Interstitial0.1627644643",
-      "i2": "/22387492205,22509378687/melton.digi.neondigitalclocklivewallpaper.Interstitial0.1627644643",
-      "na1": "/22387492205,22509378687/melton.digi.neondigitalclocklivewallpaper.Native0.1634624713",
-      "na2": "/22387492205,22509378687/melton.digi.neondigitalclocklivewallpaper.Native0.1634624713",
+      "b1": "/22405025169,22573985824/melton.digi.neondigitalclocklivewallpaper.Banner",
+      "b2": "/22405025169,22573985824/melton.digi.neondigitalclocklivewallpaper.Banner",
+      "i1": "/22405025169,22573985824/melton.digi.neondigitalclocklivewallpaper.Interstitial",
+      "i2": "/22405025169,22573985824/melton.digi.neondigitalclocklivewallpaper.Interstitial",
+      "na1": "/22405025169,22573985824/melton.digi.neondigitalclocklivewallpaper.Native",
+      "na2": "/22405025169,22573985824/melton.digi.neondigitalclocklivewallpaper.Native",
       "aid": "ca-app-pub-3940256099942544~3347511713",
-      "ao": "/6499/example/app-open",
+      "ao": "/22405025169,22573985824/melton.digi.neondigitalclocklivewallpaper.AppOpen",
       "rd": "/6499/example/rewarded",
       "ird": "/21775744923/example/rewarded_interstitial",
-      "extra1": "Want To Put 1",
+      "extra1": "1",
       "extra2": "Want To Put 2"
     }
   ]
