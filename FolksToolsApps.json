@@ -1,9 +1,9 @@
 {
-  "clockwidget.alwaysonamoled.alwaysondisplay": [
+  "clockwidget.alwaysonamoled.alwaysondisplay1": [
 
     {
 
-      "exit_popup": "1",
+      "exit_popup": "0",
       "tx": "pub-65526-android-7405",
       "b1": "ca-app-pub-5523798216623915/4361511711",
       "b2": "ca-app-pub-5523798216623915/4361511711",
@@ -13,6 +13,28 @@
       "na2": "ca-app-pub-5523798216623915/7347563864",
       "aid": "ca-app-pub-5523798216623915~7000117492",
       "ao": "ca-app-pub-5523798216623915/4529828835",
+      "rd": "ca-app-pub-5523798216623915/2642032093",
+      "ird": "ca-app-pub-5523798216623915/7702787080",
+      "extra1": "1",
+      "extra2": "1"
+
+    }
+
+  ],
+  "clockwidget.alwaysonamoled.alwaysondisplay": [
+
+    {
+
+      "exit_popup": "0",
+      "tx": "pub-65526-android-7405",
+      "b1": "/6499/example/banner",
+      "b2": "/6499/example/banner",
+      "i1": "/6499/example/interstitial",
+      "i2": "/6499/example/interstitial",
+      "na1": "/6499/example/native",
+      "na2": "/6499/example/native",
+      "aid": "ca-app-pub-5523798216623915~7000117492",
+      "ao": "/6499/example/app-open",
       "rd": "ca-app-pub-5523798216623915/2642032093",
       "ird": "ca-app-pub-5523798216623915/7702787080",
       "extra1": "1",
