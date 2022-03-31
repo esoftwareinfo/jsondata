@@ -1,5 +1,5 @@
 {
-  "clockwidget.alwaysonamoled.alwaysondisplay2": [
+  "clockwidget.alwaysonamoled.alwaysondisplay.lv": [
 
     {
 
@@ -21,7 +21,7 @@
     }
 
   ],
-  "clockwidget.alwaysonamoled.alwaysondisplay1": [
+  "clockwidget.alwaysonamoled.alwaysondisplay.test": [
 
     {
 
@@ -57,6 +57,28 @@
       "na2": "ca-app-pub-5368971816856183/5860044188",
       "aid": "ca-app-pub-5368971816856183~8869350901",
       "ao": "ca-app-pub-5368971816856183/8294635834",
+      "rd": "ca-app-pub-5523798216623915/2642032093",
+      "ird": "ca-app-pub-5523798216623915/7702787080",
+      "extra1": "1",
+      "extra2": "1"
+
+    }
+
+  ],
+  "clockwidget.alwaysonamoled.alwaysondisplay.enterprice": [
+
+    {
+
+      "exit_popup": "0",
+      "tx": "pub-65526-android-7405",
+      "b1": "ca-app-pub-7575908437678224/5775373575",
+      "b2": "ca-app-pub-7575908437678224/1836128564",
+      "i1": "ca-app-pub-7575908437678224/9523046893",
+      "i2": "ca-app-pub-7575908437678224/6896883555",
+      "na1": "ca-app-pub-7575908437678224/1644556871",
+      "na2": "ca-app-pub-7575908437678224/8018393533",
+      "aid": "ca-app-pub-7575908437678224~4845435287",
+      "ao": "ca-app-pub-7575908437678224/2766066853",
       "rd": "ca-app-pub-5523798216623915/2642032093",
       "ird": "ca-app-pub-5523798216623915/7702787080",
       "extra1": "1",
