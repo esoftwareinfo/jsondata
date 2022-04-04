@@ -1,7 +1,7 @@
 {
   "melton.digi.analogclock.livewp": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61211-android-5724",
       "b1": "/22405025169,22573985824/melton.digi.analogclock.livewp.Banner",
       "b2": "/22405025169,22573985824/melton.digi.analogclock.livewp.Banner",
@@ -19,7 +19,7 @@
   ],
   "melton.digi.analogclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61212-android-7835",
       "b1": "/22405025169,22573985824/melton.digi.analogclocklivewallpaper.Banner",
       "b2": "/22405025169,22573985824/melton.digi.analogclocklivewallpaper.Banner",
@@ -37,7 +37,7 @@
   ],
   "melton.digi.digitalclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61210-android-5639",
       "b1": "/22405025169,22573985824/melton.digi.digitalclocklivewallpaper.Banner2",
       "b2": "/22405025169,22573985824/melton.digi.digitalclocklivewallpaper.Banner2",
@@ -55,7 +55,7 @@
   ],
   "melton.digi.latestdigitalclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61213-android-7872",
       "b1": "/22405025169,22573985824/melton.digi.latestdigitalclocklivewallpaper.Banner",
       "b2": "/22405025169,22573985824/melton.digi.latestdigitalclocklivewallpaper.Banner",
@@ -73,7 +73,7 @@
   ],
   "melton.digi.leddigitalclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61214-android-7885",
       "b1": "/22405025169,22573985824/melton.digi.leddigitalclocklivewallpaper.Banner",
       "b2": "/22405025169,22573985824/melton.digi.leddigitalclocklivewallpaper.Banner",
@@ -91,7 +91,7 @@
   ],
   "melton.digi.newdigitalclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61215-android-7937",
       "b1": "/22405025169,22573985824/melton.digi.newdigitalclocklivewallpaper.Banner",
       "b2": "/22405025169,22573985824/melton.digi.newdigitalclocklivewallpaper.Banner",
@@ -109,7 +109,7 @@
   ],
   "melton.digi.awesomedigitalclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61216-android-7955",
       "b1": "/22405025169,22573985824/melton.digi.awesomedigitalclocklivewallpaper.Banner",
       "b2": "/22405025169,22573985824/melton.digi.awesomedigitalclocklivewallpaper.Banner",
@@ -127,7 +127,7 @@
   ],
   "melton.digi.displaydigitalclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61217-android-7969",
       "b1": "/22405025169,22573985824/melton.digi.displaydigitalclocklivewallpaper.Banner",
       "b2": "/22405025169,22573985824/melton.digi.displaydigitalclocklivewallpaper.Banner",
@@ -145,7 +145,7 @@
   ],
   "melton.digi.moderndigitalclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61218-android-7983",
       "b1": "/22405025169,22573985824/melton.digi.moderndigitalclocklivewallpaper.Banner",
       "b2": "/22405025169,22573985824/melton.digi.moderndigitalclocklivewallpaper.Banner",
@@ -163,7 +163,7 @@
   ],
   "melton.digi.digiclocklwp": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61219-android-7997",
       "b1": "/22405025169,22573985824/melton.digi.digiclocklwp.Banner",
       "b2": "/22405025169,22573985824/melton.digi.digiclocklwp.Banner",
@@ -181,7 +181,7 @@
   ],
   "melton.digi.digiclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61220-android-8011",
       "b1": "/22405025169,22573985824/melton.digi.digiclocklivewallpaper.Banner",
       "b2": "/22405025169,22573985824/melton.digi.digiclocklivewallpaper.Banner",
@@ -199,7 +199,7 @@
   ],
   "melton.digi.neondigitalclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61221-android-8025",
       "b1": "/22405025169,22573985824/melton.digi.neondigitalclocklivewallpaper.Banner",
       "b2": "/22405025169,22573985824/melton.digi.neondigitalclocklivewallpaper.Banner",
