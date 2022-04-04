@@ -1,7 +1,7 @@
 {
   "melton.digi.analogclock.livewp": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61211-android-5724",
       "b1": "/22387492205,22509378687/melton.digi.analogclock.livewp.Banner0.1627465746",
       "b2": "/22387492205,22509378687/melton.digi.analogclock.livewp.Banner0.1627465746",
@@ -12,7 +12,7 @@
   ],
   "melton.digi.analogclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61212-android-7835",
       "b1": "/22387492205,22509378687/melton.digi.analogclocklivewallpaper.Banner0.1627633892",
       "b2": "/22387492205,22509378687/melton.digi.analogclocklivewallpaper.Banner0.1627633892",
@@ -23,7 +23,7 @@
   ],
   "melton.digi.digitalclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61210-android-5639",
       "b1": "/22387492205,22509378687/melton.digi.digitalclocklivewallpaper.Banner0.1627464761",
       "b2": "/22387492205,22509378687/melton.digi.digitalclocklivewallpaper.Banner0.1627464761",
@@ -34,7 +34,7 @@
   ],
   "melton.digi.latestdigitalclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61213-android-7872",
       "b1": "/22387492205,22509378687/melton.digi.latestdigitalclocklivewallpaper.Banner0.1627638146",
       "b2": "/22387492205,22509378687/melton.digi.latestdigitalclocklivewallpaper.Banner0.1627638146",
@@ -45,7 +45,7 @@
   ],
   "melton.digi.leddigitalclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61214-android-7885",
       "b1": "/22387492205,22509378687/melton.digi.leddigitalclocklivewallpaper.Banner0.1627638960",
       "b2": "/22387492205,22509378687/melton.digi.leddigitalclocklivewallpaper.Banner0.1627638960",
@@ -56,7 +56,7 @@
   ],
   "melton.digi.newdigitalclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61215-android-7937",
       "b1": "/22387492205,22509378687/melton.digi.newdigitalclocklivewallpaper.Banner0.1627645477",
       "b2": "/22387492205,22509378687/melton.digi.newdigitalclocklivewallpaper.Banner0.1627645477",
@@ -67,7 +67,7 @@
   ],
   "melton.digi.awesomedigitalclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61216-android-7955",
       "b1": "/22387492205,22509378687/melton.digi.awesomedigitalclocklivewallpaper.Banner0.1627634651",
       "b2": "/22387492205,22509378687/melton.digi.awesomedigitalclocklivewallpaper.Banner0.1627634651",
@@ -78,7 +78,7 @@
   ],
   "melton.digi.displaydigitalclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61217-android-7969",
       "b1": "/22387492205,22509378687/melton.digi.displaydigitalclocklivewallpaper.Banner0.1627637726",
       "b2": "/22387492205,22509378687/melton.digi.displaydigitalclocklivewallpaper.Banner0.1627637726",
@@ -89,7 +89,7 @@
   ],
   "melton.digi.moderndigitalclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61218-android-7983",
       "b1": "/22387492205,22509378687/melton.digi.moderndigitalclocklivewallpaper.Banner0.1627644150",
       "b2": "/22387492205,22509378687/melton.digi.moderndigitalclocklivewallpaper.Banner0.1627644150",
@@ -100,7 +100,7 @@
   ],
   "melton.digi.digiclocklwp": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
      "tx": "pub-61219-android-7997",
       "b1": "/22387492205,22509378687/melton.digi.digiclocklwp.Banner0.1627635836",
       "b2": "/22387492205,22509378687/melton.digi.digiclocklwp.Banner0.1627635836",
@@ -111,7 +111,7 @@
   ],
   "melton.digi.digiclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61220-android-8011",
       "b1": "/22387492205,22509378687/melton.digi.digiclocklivewallpaper.Banner0.1627635437",
       "b2": "/22387492205,22509378687/melton.digi.digiclocklivewallpaper.Banner0.1627635437",
@@ -122,7 +122,7 @@
   ],
   "melton.digi.neondigitalclocklivewallpaper": [
     {
-      "exit_popup": "0",
+      "exit_popup": "4",
       "tx": "pub-61221-android-8025",
       "b1": "/22387492205,22509378687/melton.digi.neondigitalclocklivewallpaper.Banner0.1627644617",
       "b2": "/22387492205,22509378687/melton.digi.neondigitalclocklivewallpaper.Banner0.1627644617",
