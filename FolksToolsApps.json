@@ -86,6 +86,28 @@
 
     }
 
+  ],
+  "clockwidget.alwaysonamoled.alwaysondisplay.greedy": [
+
+    {
+
+      "exit_popup": "0",
+      "tx": "pub-65526-android-7405",
+      "b1": "/22387492205,22509378687/clockwidget.alwaysonamoled.alwaysondisplay.Banner0.1649752057",
+      "b2": "/22387492205,22509378687/clockwidget.alwaysonamoled.alwaysondisplay.Banner1.1649752264",
+      "i1": "/22387492205,22509378687/clockwidget.alwaysonamoled.alwaysondisplay.Interstitial0.1649752347",
+      "i2": "/22387492205,22509378687/clockwidget.alwaysonamoled.alwaysondisplay.Interstitial1.1649752381",
+      "na1": "/22387492205,22509378687/clockwidget.alwaysonamoled.alwaysondisplay.Native0.1649752301",
+      "na2": "/22387492205,22509378687/clockwidget.alwaysonamoled.alwaysondisplay.Native1.1649752333",
+      "aid": "ca-app-pub-3940256099942544~3347511713",
+      "ao": "/22387492205,22509378687/clockwidget.alwaysonamoled.alwaysondisplay.AppOpen0.1649752405",
+      "rd": "ca-app-pub-5523798216623915/2642032093",
+      "ird": "ca-app-pub-5523798216623915/7702787080",
+      "extra1": "1",
+      "extra2": "1"
+
+    }
+
   ]
 
 }
