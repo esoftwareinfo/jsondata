@@ -1,7 +1,7 @@
 {
 		"clockwidget.alwaysonamoled.alwaysondisplay": [
 		{
-		"exit_popup": "100",
+		"exit_popup": "0",
 		"tx": "pub-65526-android-7405",
 		"b1": "ca-app-pub-9702869361269556/3623863662",
 		"b2": "ca-app-pub-9702869361269556/3623863662",
@@ -57,7 +57,7 @@
 		
 		"borderLightliveWallpaper.borderlight.edgelighting": [
 		{
-		"exit_popup": "100",
+		"exit_popup": "0",
 		"tx": "pub-67037-android-5389",
 		"b1": "ca-app-pub-9702869361269556/6197259957",
 		"b2": "ca-app-pub-9702869361269556/6197259957",
