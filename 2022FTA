@@ -169,7 +169,7 @@
 		
 		"photo.editorandfilter.wowphotoeditor": [
 		{
-		"exit_popup": "0",
+		"exit_popup": "100",
 		"tx": "pub-67166-android-4428",
 		"b1": "/6499/example/banner",
 		"b2": "/6499/example/banner",
