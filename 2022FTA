@@ -1,5 +1,5 @@
 {
-		"clockwidget.alwaysonamoled.alwaysondisplay.limit": [
+		"clockwidget.alwaysonamoled.alwaysondisplay": [
 		{
 		"exit_popup": "0",
 		"tx": "pub-65526-android-7405",
@@ -14,7 +14,7 @@
 		"rd": "/6499/example/rewarded",
 		"ird": "/21775744923/example/rewarded_interstitial",
 		"extra1": "1",
-		"extra2": "Want_To_Put_2",
+		"extra2": "1",
 		"setup": "1",
 		"b11": "ca-app-pub-9702869361269556/6441598693",
 		"b111": "ca-app-pub-9702869361269556/6441598693",
@@ -55,7 +55,7 @@
 		}
 		],
 		
-		"clockwidget.alwaysonamoled.alwaysondisplay": [
+		"clockwidget.alwaysonamoled.alwaysondisplay.test": [
 		{
 		"exit_popup": "0",
 		"tx": "pub-65526-android-7405",
