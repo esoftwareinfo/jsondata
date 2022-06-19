@@ -1,5 +1,5 @@
 {
-		"clockwidget.alwaysonamoled.alwaysondisplay.gamob": [
+		"clockwidget.alwaysonamoled.alwaysondisplay": [
 		{
 		"exit_popup": "0",
 		"tx": "pub-65526-android-7405",
@@ -55,7 +55,7 @@
 		}
 		],
 		
-		"clockwidget.alwaysonamoled.alwaysondisplay": [
+		"clockwidget.alwaysonamoled.alwaysondisplay.admob.mk": [
 		{
 		"exit_popup": "0",
 		"tx": "pub-65526-android-7405",
